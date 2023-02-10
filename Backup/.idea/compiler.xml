@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EurekaServer" />
+        <module name="RewardAdminstration" />
+        <module name="ElementAdminstration" />
+        <module name="StudentFeign" />
+        <module name="ElementService" />
+        <module name="AvatarAdminstration" />
+        <module name="StudentService (2)" />
+        <module name="StudentService" />
+        <module name="AvatarService" />
+        <module name="StudentService (1)" />
+        <module name="StudentAdministration" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AvatarAdminstration" target="17" />
+      <module name="AvatarService" target="11" />
+      <module name="ElementAdminstration" target="17" />
+      <module name="ElementService" target="17" />
+      <module name="EurekaServer" target="17" />
+      <module name="RewardAdminstration" target="17" />
+      <module name="StudentAdministration" target="17" />
+      <module name="StudentFeign" target="17" />
+      <module name="StudentService" target="17" />
+      <module name="StudentService (1)" target="17" />
+      <module name="StudentService (2)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AvatarAdminstration" options="-parameters" />
+      <module name="AvatarService" options="-parameters" />
+      <module name="ElementAdminstration" options="-parameters" />
+      <module name="ElementService" options="-parameters" />
+      <module name="EurekaServer" options="-parameters" />
+      <module name="RewardAdminstration" options="-parameters" />
+      <module name="StudentAdministration" options="-parameters" />
+      <module name="StudentFeign" options="-parameters" />
+      <module name="StudentService" options="-parameters" />
+      <module name="StudentService (1)" options="-parameters" />
+      <module name="StudentService (2)" options="-parameters" />
+    </option>
+  </component>
+</project>

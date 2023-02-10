@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Client Applications/AvatarAdminstration/AvatarAdminstration.iml" filepath="$PROJECT_DIR$/Client Applications/AvatarAdminstration/AvatarAdminstration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AvatarService/AvatarService.iml" filepath="$PROJECT_DIR$/AvatarService/AvatarService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Backup.iml" filepath="$PROJECT_DIR$/.idea/Backup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client Applications/ElementAdminstration/ElementAdminstration.iml" filepath="$PROJECT_DIR$/Client Applications/ElementAdminstration/ElementAdminstration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElementService/ElementService.iml" filepath="$PROJECT_DIR$/ElementService/ElementService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentEurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/StudentEurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client Applications/RewardAdminstration/RewardAdminstration.iml" filepath="$PROJECT_DIR$/Client Applications/RewardAdminstration/RewardAdminstration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client Applications/StudentAdministration/StudentAdministration.iml" filepath="$PROJECT_DIR$/Client Applications/StudentAdministration/StudentAdministration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentFeign/StudentFeign.iml" filepath="$PROJECT_DIR$/StudentFeign/StudentFeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentServiceA/StudentService.iml" filepath="$PROJECT_DIR$/StudentServiceA/StudentService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentServiceB/StudentService (1).iml" filepath="$PROJECT_DIR$/StudentServiceB/StudentService (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentServiceC/StudentService (2).iml" filepath="$PROJECT_DIR$/StudentServiceC/StudentService (2).iml" />
+    </modules>
+  </component>
+</project>
