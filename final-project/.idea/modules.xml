@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservices/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/microservices/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-apps/avatar-admin/avatar-admin.iml" filepath="$PROJECT_DIR$/client-apps/avatar-admin/avatar-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/avatar-service/avatar-service.iml" filepath="$PROJECT_DIR$/microservices/avatar-service/avatar-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-apps/client-apps.iml" filepath="$PROJECT_DIR$/client-apps/client-apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/config-server/config-server.iml" filepath="$PROJECT_DIR$/microservices/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-apps/element-admin/element-admin.iml" filepath="$PROJECT_DIR$/client-apps/element-admin/element-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/element-service/element-service.iml" filepath="$PROJECT_DIR$/microservices/element-service/element-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/email-service/email-service.iml" filepath="$PROJECT_DIR$/microservices/email-service/email-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/microservices/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/final-project.iml" filepath="$PROJECT_DIR$/.idea/final-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/microservices.iml" filepath="$PROJECT_DIR$/microservices/microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-apps/reward-admin/reward-admin.iml" filepath="$PROJECT_DIR$/client-apps/reward-admin/reward-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-apps/school-admin/school-admin.iml" filepath="$PROJECT_DIR$/client-apps/school-admin/school-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/school-service/school-service.iml" filepath="$PROJECT_DIR$/microservices/school-service/school-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-apps/student-admin/student-admin.iml" filepath="$PROJECT_DIR$/client-apps/student-admin/student-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/student-service-a/student-service-a.iml" filepath="$PROJECT_DIR$/microservices/student-service-a/student-service-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/student-service-b/student-service-b.iml" filepath="$PROJECT_DIR$/microservices/student-service-b/student-service-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/student-service-c/student-service-c.iml" filepath="$PROJECT_DIR$/microservices/student-service-c/student-service-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-apps/teacher-admin/teacher-admin.iml" filepath="$PROJECT_DIR$/client-apps/teacher-admin/teacher-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/teacher-service/teacher-service.iml" filepath="$PROJECT_DIR$/microservices/teacher-service/teacher-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-apps/user-login/user-login.iml" filepath="$PROJECT_DIR$/client-apps/user-login/user-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices/user-service/user-service.iml" filepath="$PROJECT_DIR$/microservices/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>

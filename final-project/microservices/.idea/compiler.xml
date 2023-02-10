@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-server" />
+        <module name="teacher-service" />
+        <module name="avatar-service" />
+        <module name="student-service-c" />
+        <module name="email-service" />
+        <module name="student-service-b" />
+        <module name="api-gateway" />
+        <module name="student-service-a" />
+        <module name="user-service" />
+        <module name="school-service" />
+        <module name="eureka-server" />
+        <module name="element-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="student-service" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="avatar-service" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="element-service" options="-parameters" />
+      <module name="email-service" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="school-service" options="-parameters" />
+      <module name="student-service" options="-parameters" />
+      <module name="student-service-a" options="-parameters" />
+      <module name="student-service-b" options="-parameters" />
+      <module name="student-service-c" options="-parameters" />
+      <module name="teacher-service" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

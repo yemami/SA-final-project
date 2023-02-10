@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/client-apps/avatar-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/avatar-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/element-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/element-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/reward-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/reward-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/school-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/school-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/student-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/student-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/teacher-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/teacher-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/user-login/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client-apps/user-login/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/api-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/avatar-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/avatar-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/config-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/element-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/element-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/email-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/email-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/school-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/school-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/student-service-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/student-service-a/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/student-service-b/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/student-service-b/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/student-service-c/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/student-service-c/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/teacher-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/teacher-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/user-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
