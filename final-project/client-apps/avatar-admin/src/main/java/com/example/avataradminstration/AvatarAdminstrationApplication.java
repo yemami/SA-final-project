@@ -26,10 +26,10 @@ public class AvatarAdminstrationApplication implements CommandLineRunner {
         String serverURL = "http://localhost:8085/avatars";
 
         Avatar avatar = new Avatar(20, 30, 40,80, 10, 20, 30, 40, 50, 20, 0,10);
-//
-//        System.out.println("\n--------------- add Avatar-----------------------\n");
-//        //student is required to add avatar
-//        restTemplate.postForLocation("http://localhost:8085/avatars/add-avatars/645185", avatar);
+
+        System.out.println("\n--------------- add Avatar-----------------------\n");
+        //student is required to add avatar
+       restTemplate.postForLocation("http://localhost:8085/avatars/add-avatars/645185", avatar);
 
 //        System.out.println("\n--------------- get all Avatar-----------------------\n");
 //        Avatars avatars = restTemplate.getForObject("http://localhost:8085/avatars", Avatars.class);
